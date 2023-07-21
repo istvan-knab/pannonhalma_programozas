@@ -9,7 +9,6 @@ Komment: ezek a sorok nem futnak le, csupán a fejlesztő segítségére vannak 
 """
 # Egysoros komment
 
-
 """
 String : Karakterláncok, szavak és betűkkel kifejezhető kifejezések tárolására alkalmas
 """
@@ -24,7 +23,6 @@ Numerikus típusok: számszerűen kifejezhető értékek
 my_first_int = 420
 
 # Float (float) : lebegőpontos számok, ezekkelé tudunk nem egész számokat ábrázolni
-
 my_first_float = 6.9
 
 """
