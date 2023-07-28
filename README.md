@@ -25,4 +25,5 @@ $${\color{red}Egyéni  feladat}$$
 8. Vizualizáció
 9. Gyakorló programok
 10. Verziókezelés
+11. Határterületek,alkalmazási lehetőségek (Több előadó)
 
