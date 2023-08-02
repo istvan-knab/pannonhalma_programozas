@@ -8,6 +8,9 @@ Ez a repository tartalmazza a Pannonhalmi Bencés Gimnázium diákjainak tartott
 Célja az alapvető programozási struktúrák ismertetése és ennek jelentősége mind informatikai, mind műszaki területen.
 A kurzus Python nyelven zajlik, ezzel a későbbiekben a gépi tanulás iránt érdeklődők számára jó alapokat biztosítva.
 
+### Kurzus időpontja
+Megbeszélés alapján
+
 ### Tematika
 1. Elméleti bevezetés, alapvető típusok, változók
 2. Elágazások, ciklusok
