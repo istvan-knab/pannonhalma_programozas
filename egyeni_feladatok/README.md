@@ -1,3 +1,3 @@
-### Egyéni projektek
+# Egyéni projektek
 
 ## Coming soon...
